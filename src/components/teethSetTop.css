@@ -1,0 +1,101 @@
+.teethSetTop {
+    text-decoration: none;
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: none;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;  
+    border-radius: 10px;
+  }
+  
+  a:hover {
+    background: yellow;
+  }
+  
+  a:active {
+    background: yellow;
+  }
+  
+
+
+.tooth1 {
+    margin-top: 175px; /*-10 yaxis */
+    margin-left: 25px;
+  }
+  .tooth2 {
+    margin-top: 139px; /*-10 yaxis */
+    margin-left: 27px;
+  }
+  
+  .tooth3 {
+    margin-top: 105px; /*-10 yaxis */
+    margin-left: 33px;
+  }
+  .tooth4 {
+    margin-top: 75px; /*-10*/
+    margin-left: 39px;
+  }
+  .tooth5 {
+    margin-top: 49px; /*-10*/
+    margin-left: 45px;
+  }
+  .tooth6 {
+    margin-top: 29px; /*-10*/
+    margin-left: 55px;
+  }
+  .tooth7 {
+    margin-top: 17px; /*-10*/
+    margin-left: 73px;
+  }
+  .tooth8 {
+    margin-top: 12px; /*-10*/
+    margin-left: 99px;
+  }
+  .tooth9 {
+    margin-top: 12px; /*-10*/
+    margin-left: 130px;
+  }
+  .tooth10 {
+    margin-top: 12px; /*-10*/
+    margin-left: 155px;
+  }
+  .tooth10 {
+    margin-top: 12px; /*-10*/
+    margin-left: 155px;
+  }
+  .tooth11 {
+    margin-top: 29px; /*-10*/
+    margin-left: 174px;
+  }
+  .tooth12 {
+    margin-top: 49px; /*-10*/
+    margin-left: 184px;
+  }
+  .tooth13 {
+    margin-top: 75px; /*-10*/
+    margin-left: 189px;
+  }
+  .tooth14 {
+    margin-top: 105px; /*-10*/
+    margin-left: 200px;
+  }
+  .tooth15 {
+    margin-top: 139px; /*-10*/
+    margin-left: 205px;
+  }
+  .tooth16 {
+    margin-top: 175px; /*-10*/
+    margin-left: 205px;
+  }
+  
+  .image {
+    z-index: -1;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background-color: #37475A;
+  }
